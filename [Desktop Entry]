@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Name=gregflix
+Comment=A simple video jukebox app
+Categories=Other
+Exec=lxterminal --command="bash /home/pi/video.sh /media/pi/Passport 180 30"
+Icon=scratch
+Terminal=true
+Type=Application
+
