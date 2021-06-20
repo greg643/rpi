@@ -2,6 +2,8 @@ import gps
 from rtlsdr import RtlSdr
 
 #must initiate gpsd from terminal before running
+#https://learn.adafruit.com/adafruit-ultimate-gps-on-the-raspberry-pi/setting-everything-up
+#sudo gpsd /dev/ttyUSB0 -F /var/run/gpsd.sock
 
 #GPS setup
 # Listen on port 2947 (gpsd) of localhost
