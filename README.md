@@ -5,9 +5,9 @@ This project is designed to take a Raspberry Pi 3 or later and use it as a video
 https://stackoverflow.com/questions/4279611/how-to-embed-a-video-into-github-readme-md/4279746#4279746
 
 
-[![Alternate Text]({image-url})](} "Link Title")
+[![Alt text for your video](https://img.youtube.com/vi/VIDEO-ID/0.jpg)](https://user-images.githubusercontent.com/2358767/155048456-cc97b5ff-2adb-4444-a5c8-896035df2a53.MP4)
 
-[![Alt text for your video](doc/gifName.gif)](https://user-images.githubusercontent.com/2358767/155048456-cc97b5ff-2adb-4444-a5c8-896035df2a53.MP4)
+
 
 https://github.com/greg643/rpi/blob/56eb2ba7966747589e9202ad8e5c2acd1c6b8858/GX010002%202.MP4
 
