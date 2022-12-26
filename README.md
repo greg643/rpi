@@ -5,6 +5,13 @@
 
 # gregflix
 
+gregflix is a self-contained, randomized personal video player running on a Raspberry Pi 3 or later. This project is a great example of the power of linux shell scripting as well as the Raspberry Pi itself. 
+
+Required files:
+* video.sh
+* other ...
+* other
+
 ## Background 
 
 To set the scene - a few friends had a bar out in Los Angeles. We are sampling a variety of beers and catching up on old times. Inexplicably, we are soon deep into scratchers lottery tickets. And in the background, a movie played. At the movie's conclusion, the discussion turned to, what else can we play? And another movie was selected, but you soon realize that starting another movie from the beginning is not quite what the environment needed. And in that moment, an idea is hatched - what if we had a simple way to randomly play movies, at random star times, for random durations, on a loop? 
