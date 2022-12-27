@@ -18,7 +18,7 @@ An example is below. This will play 3 minute clips and wait 30 seconds between c
 /home/pi/video.sh /media/pi/Passport 180 30
 ```
 
-Note that this project supposes that you have a personal collection of movies in MP4 or MKV format (something that can be played by ffmpeg on a Raspberry Pi). I encoded a bunch of my blu-ray DVDs to MP4s using Handbrake a number of years ago, which made this process a lot easier for me.
+Note that this project supposes that you have a personal collection of movies in MP4 or MKV format (something that can be played by ffmpeg on a Raspberry Pi). I encoded a bunch of my blu-ray DVDs to MP4s using Handbrake a number of years ago, which made this process a lot easier for me. The movies are copied to a Western Digital passport USB drive. The Raspberry Pi can't power this directly from its own USB ports, so a special adapter cable is required to power the drive.
 
 ## Background 
 
