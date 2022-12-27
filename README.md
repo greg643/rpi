@@ -1,7 +1,8 @@
 # software defined radio & gps
 
-...
+This is a project which never quite left the laboratory, but the idea here is to combine a software-defined radio (SDR), and a GPS device, both running on a raspberry pi, to take radio frequency (RF) measurements and log the physical location and altitude of the measurements taken. In theory, the Raspberry Pi and sensors could be mounted on a car, or a drone, to take multiple measurements and log all of the associated data.
 
+I did not turn this into a working final product, but was able to get both the SDR and the GPS modules working to the point that I could take RF measurements and log GPS coordinates to demonstrate to myself that this could be done. This was part of a contemplated project for my dad's company, Power Technology Solutions (PTS).
 
 # gregflix
 
@@ -9,8 +10,10 @@ gregflix is a self-contained, randomized personal video player running on a Rasp
 
 Required files:
 * video.sh
-* other ...
-* other
+* vncboot.sh - this is for remote access to the RPI using a VNC viewer
+* Desktop Entry - this is how the video.sh is loaded. The bash script requires the location of the media drive, as well as the randomization
+
+Note that this project supposes that you have a personal collection of movies in MP4 or MKV format (something that can be played by ffmpeg on a Raspberry Pi). I encoded a bunch of my blu-ray DVDs to MP4s using Handbrake a number of years ago, which made this process a lot easier for me.
 
 ## Background 
 
@@ -25,6 +28,8 @@ The upside of this approach is that if you didn't like the movie, it would only 
 There are a few extra touches, like not playing the opening or closing credits using offsets, but otherwise this is a simple command line script that leverages the awesome capabilities of the Pi with an external hard drive. 
 
 Enjoy!
+
+## gregflix in action
 
 https://stackoverflow.com/questions/4279611/how-to-embed-a-video-into-github-readme-md/4279746#4279746
     
