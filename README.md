@@ -39,3 +39,8 @@ Enjoy!
 https://stackoverflow.com/questions/4279611/how-to-embed-a-video-into-github-readme-md/4279746#4279746
     
 https://github.com/greg643/rpi/blob/master/GX010002%202.MP4
+
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
+![Raspberry Pi3](https://github.com/greg643/rpi/blob/master/rpi.jpg?raw=true)
+
