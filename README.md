@@ -34,11 +34,7 @@ There are a few extra touches, like not playing the opening or closing credits u
 
 Enjoy!
 
-## gregflix in action
-
-https://stackoverflow.com/questions/4279611/how-to-embed-a-video-into-github-readme-md/4279746#4279746
-
-![Raspberry Pi3](https://github.com/greg643/rpi/blob/master/GX010002.gif?raw=true)
+Raspberry Pi - this can be placed inside various enclosures available so it looks more aesthetically pleasing, or placed somewhere not visible. For the demo, I wanted to show the components involved.
 
 ![Raspberry Pi3](https://github.com/greg643/rpi/blob/master/rpi.jpg?raw=true)
 
