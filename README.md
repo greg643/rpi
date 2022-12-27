@@ -13,6 +13,10 @@ Required files:
 * vncboot.sh - this is for remote access to the RPI using a VNC viewer
 * Desktop Entry - this is how the video.sh is loaded. The bash script requires the location of the media drive, as well as the randomization
 
+```
+/home/pi/video.sh /media/pi/Passport 180 30"
+```
+
 Note that this project supposes that you have a personal collection of movies in MP4 or MKV format (something that can be played by ffmpeg on a Raspberry Pi). I encoded a bunch of my blu-ray DVDs to MP4s using Handbrake a number of years ago, which made this process a lot easier for me.
 
 ## Background 
