@@ -38,9 +38,7 @@ Enjoy!
 
 https://stackoverflow.com/questions/4279611/how-to-embed-a-video-into-github-readme-md/4279746#4279746
 
-<video src='https://github.com/greg643/rpi/blob/master/GX010002.mov' width=180/>
-
-https://github.com/greg643/rpi/blob/master/GX010002.mov
+<video src="https://github.com/greg643/rpi/blob/master/GX010002.mov"></video>
 
 ![Raspberry Pi3](https://github.com/greg643/rpi/blob/master/rpi.jpg?raw=true)
 
